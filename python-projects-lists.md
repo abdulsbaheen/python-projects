@@ -7,3 +7,4 @@ This folder contains my beginner Python projects.
 - Number_Guessing_Game
 - Email_Slicer
 - Snake_Water_gun_game
+- password_generator
